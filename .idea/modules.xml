@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../film-react.iml" filepath="$PROJECT_DIR$/../film-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recipe-react.iml" filepath="$PROJECT_DIR$/../recipe-react.iml" />
     </modules>
   </component>
 </project>
